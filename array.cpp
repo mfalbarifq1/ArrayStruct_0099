@@ -27,4 +27,12 @@ int main(){
     cin  >> datamu[3];
     cout << "data index ke - 4 : ";
     cin  >> datamu[4];
+
+    cout << "data ke -1 : " << datamu[0] << endl;
+    cout << "data ke -2 : " << datamu[1] << endl;    
+    cout << "data ke -3 : " << datamu[2] << endl;
+    cout << "data ke -4 : " << datamu[3] << endl;
+    cout << "data ke -5 : " << datamu[4] << endl;
+ 
+    cout << endl;
 }
